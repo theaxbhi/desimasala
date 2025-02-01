@@ -5,7 +5,6 @@ Welcome to **Desi Masala**, a beautifully crafted food website showcasing **popu
 ## **🌟 Features**  
 ✅ **Popular Dishes** – Discover top-rated Indian delicacies 🍲  
 ✅ **Trending Items** – Stay updated with the latest food trends 🌶️  
-✅ **Drinks & Beverages** – Refreshing traditional drinks like Lassi & Masala Chai ☕  
 ✅ **Smooth Animations** – Enhancing user experience with CSS transitions 🎨  
 ✅ **Responsive Design** – Optimized for all screen sizes 📱  
 
