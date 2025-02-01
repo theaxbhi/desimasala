@@ -16,16 +16,14 @@ Welcome to **Desi Masala**, a beautifully crafted food website showcasing **popu
 ## **🚀 Getting Started**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/desimasala.git
+   git clone https://github.com/theaxbhi/desimasala.git
    ```
 2. Navigate to the project directory:  
    ```sh
    cd desimasala
    ```
 3. Open `index.html` in your browser.  
-
-## **📸 Preview**  
-_Add a screenshot of your website here._  
+ 
 
 ## **🌐 Live Demo**  
 🔗 [View Live](https://your-vercel-link.vercel.app) (Update this link after deployment)  
