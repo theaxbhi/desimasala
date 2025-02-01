@@ -26,7 +26,7 @@ Welcome to **Desi Masala**, a beautifully crafted food website showcasing **popu
  
 
 ## **🌐 Live Demo**  
-🔗 [View Live Website](https://your-vercel-link.vercel.app)  
+🔗 [View Live Website](https://desimasala.vercel.app/)  
 
 ## **💡 Contributing**  
 Feel free to fork this repo, add features, and submit a pull request.  
